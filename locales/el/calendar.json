@@ -1,0 +1,53 @@
+{
+  "date": "Ημερομηνία",
+  "time": "Ώρα",
+  "event": "Γκραν Πρι της Φόρμουλα 1",
+  "notice": {
+    "text": "Οι πρώτοι 8 αγώνες του αναθεωρημένου ημερολογίου παρακάτω",
+    "link": "Διαβάστε περισσότερα"
+  },
+  "badges": {
+    "tbc": "ΠΕ",
+    "tbc_title": "Προς επιβεβαίωση",
+    "tickets": "Εισιτήρια",
+    "canceled": "Ακυρώθηκε",
+    "next": "ΕΠΟΜΕΝΟ"
+  },
+  "schedule": {
+    "fp1": "Ελεύθερα Δοκιμαστικά 1",
+    "fp2": "Ελεύθερα Δοκιμαστικά 2",
+    "fp3": "Ελεύθερα Δοκιμαστικά 3",
+    "qualifying": "Προκριματικά",
+    "race": "Αγώνας"
+  },
+  "races": {
+    "austrian-grand-prix": "Γκραν Πρι Αυστρίας",
+    "steiermark-grand-prix": "Γκραν Πρι Στυρίας (Αυστρία)",
+    "hungary-grand-prix": "Γκραν Πρι Ουγγαρίας",
+    "british-grand-prix": "Γκραν Πρι Μεγάλης Βρετανίας",
+    "anniversary-british-grand-prix": "Γκραν Πρι 70ης Επετείου (Μεγάλη Βρετανία)",
+    "spanish-grand-prix": "Γκραν Πρι Ισπανίας",
+    "belgian-grand-prix": "Γκραν Πρι Βελγίου",
+    "italian-grand-prix": "Γκραν Πρι Ιταλίας",
+    "australian-grand-prix": "Γκραν Πρι Αυστραλίας",
+    "bahrain-grand-prix": "Γκραν Πρι Μπαχρέιν",
+    "vietnamese-grand-prix": "Γκραν Πρι Βιετνάμ",
+    "china-grand-prix": "Γκραν Πρι Κίνας",
+    "dutch-grand-prix": "Γκραν Πρι Ολλανδίας",
+    "monaco-grand-prix": "Γκραν Πρι Μονακού",
+    "azerbaijan-grand-prix": "Γκραν Πρι Αζερμπαϊτζάν",
+    "canadian-grand-prix": "Γκραν Πρι Καναδά",
+    "french-grand-prix": "Γκραν Πρι Γαλλίας",
+    "singapore-grand-prix": "Γκραν Πρι Σιγκαπούρης",
+    "russian-grand-prix": "Γκραν Πρι Ρωσίας",
+    "japanese-grand-prix": "Γκραν Πρι Ιαπωνίας",
+    "us-grand-prix": "Γκραν Πρι Η.Π.Α.",
+    "mexico-grand-prix": "Γκραν Πρι Μεξικού",
+    "brazilian-grand-prix": "Γκραν Πρι Βραζιλίας",
+    "abu-dhabi-grand-prix": "Γκραν Πρι Αμπού Ντάμπι",
+    "tuscan-grand-prix": "Γκραν Πρι Τοσκάνης",
+    "eifel-grand-prix": "Γκραν Πρι Άιφελ",
+    "portuguese-grand-prix": "Γκραν Πρι Πορτογαλίας",
+    "emilia-romagna-grand-prix": "Γκραν Πρι Εμίλια Ρομάνια"
+  }
+}
